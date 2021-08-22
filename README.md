@@ -1,7 +1,8 @@
 <div align="center">
 <p>
-<img width="850" src="https://i0.wp.com/hugrypiggykim.com/wp-content/uploads/2021/08/image.png?w=566">
-<img width="850" src="https://i2.wp.com/hugrypiggykim.com/wp-content/uploads/2021/08/image-1.png?w=562">
+<img src="https://i0.wp.com/hugrypiggykim.com/wp-content/uploads/2021/08/image.png?w=566">
+<br>
+<img src="https://i2.wp.com/hugrypiggykim.com/wp-content/uploads/2021/08/image-1.png?w=562">
 </p>
 <br>
 </div>
